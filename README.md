@@ -1,9 +1,11 @@
 
 # 🛡️ Fraud Detection & Investigation Intelligence Platform
 
-An end-to-end fraud detection and investigation platform combining machine learning, transaction analytics, graph-based investigation, explainable AI, and LLM-powered intelligence.
+An end-to-end fraud detection and investigation intelligence platform designed to simulate a real-world financial fraud monitoring environment. The system combines machine learning–based risk scoring, transaction-level analytics, graph-based network investigation, explainable AI, and LLM-powered intelligence to transform suspicious activity detection into an actionable investigation workflow.
 
-The platform enables analysts to monitor suspicious transactions, investigate customer accounts, explore transaction networks, understand fraud predictions, and manage alerts and investigation cases through an interactive dashboard.
+Built on a synthetic financial transaction ecosystem, the platform enables analysts to identify high-risk transactions, investigate customer behavior, uncover suspicious relationships between entities, interpret model predictions, detect fraud patterns, and manage alerts and investigation cases through an interactive analytics dashboard.
+
+Beyond traditional fraud classification, the platform integrates multiple layers of fraud intelligence — connecting transaction monitoring, behavioral analysis, network exploration, model explainability, and AI-assisted investigation within a unified system.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-LightGBM-green)
