@@ -1,0 +1,15 @@
+
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+lightgbm
+shap
+networkx
+openai
+python-dotenv
+matplotlib
+joblib
+jupyter
+ipykernel

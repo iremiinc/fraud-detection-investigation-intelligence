@@ -1,0 +1,38 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+fraud_eval/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# IDE settings
+.vscode/
+
+# Logs
+*.log
+
+# Local case database
+data/processed/fraud_cases.db
+
+# Training datasets
+data/processed/model_dataset.csv
+data/processed/normal_transactions.csv
+
+# Training and evaluation artifacts
+models/*.pkl
+!models/lightgbm_model.pkl
