@@ -455,11 +455,6 @@ The dataset is intended for educational, research, and demonstration purposes.
 
 ---
 
-## ⚠️ Disclaimer
-
-This project is developed for educational, research, and portfolio demonstration purposes using synthetic data.
-
-It is not intended to be used as a production financial fraud detection system. Model predictions should not be used as the sole basis for real financial, compliance, or operational decisions.
 
 ---
 
